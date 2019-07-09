@@ -39,7 +39,7 @@ Geoffrey Hinton : Godfather of Deep Learning
 Activation Functions : 
 
 1. Threshold
-2. Sigmoid
+2. Sigmoid      (generally on final layer)
 3. Rectifier
 4. Hyperbolic tangent
 
@@ -74,5 +74,15 @@ Batch Size :
 ```
  CNN is the modified version of ANN
  In CNN, all neurons of one layer must connect with all neurons of next hidden layer.
+
+ 
 ```
 
+### PowerBI
+
+#### Q. make tensorflow playground
+#### Q. make mutual fund example
+
+
+##  Work with imageAI and YOLO
+## use darkflow or darknet for cnn
